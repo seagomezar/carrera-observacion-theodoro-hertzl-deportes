@@ -1,0 +1,70 @@
+{
+    "data":  [
+        {
+          "TEXTO": "¿Cuáles son los dos deportes mas populares en Israel?",
+          "CODIGO": "PRM5342MT7",
+          "STAND": "2 DEPORTES",
+          "ID": 1
+        },
+        {
+          "TEXTO": "¿Cuáles son las capacidades físicas condicionales?",
+          "CODIGO": "KSN0293RE8",
+          "STAND": "CAPACIDADES FÍSICAS",
+          "ID": 2
+        },
+        {
+          "TEXTO": "¿Cuáles son los 4 deportes vistos en educación física?",
+          "CODIGO": "ACP4682AD8",
+          "STAND": "4 DEPORTES",
+          "ID": 3
+        },
+        {
+          "TEXTO": "¿Cuántos trofeos de campeones se ganó el CTH en las últimas Macabeadas?",
+          "CODIGO": "DFG8913CV",
+          "STAND": "TROFEOS",
+          "ID": 4
+        },
+        {
+          "TEXTO": "¿Cuál es la capacidad física más importante?",
+          "CODIGO": "JNS7770MP2",
+          "STAND": "CAPACIDAD FÍSICA",
+          "ID": 5
+        },
+        {
+          "TEXTO": "Es el estadio de fútbol de Israel",
+          "CODIGO": "SHA1370ML7",
+          "STAND": "ESTADIOS",
+          "ID": 6
+        },
+        {
+          "TEXTO": "¿Cuántos años tiene el Colegio Theodoro Hertzl?",
+          "CODIGO": "HTC5791ES",
+          "STAND": "AÑOS",
+          "ID": 7
+        },
+        {
+          "TEXTO": "¿Cuál es el deporte mas antiguo del mundo, considerado también como el deporte base por excelencia?",
+          "CODIGO": "HOP0281BE",
+          "STAND": "DEPORTE BASE",
+          "ID": 8
+        },
+        {
+          "TEXTO": "¿A qué deporte se le asocia el Dream Team?",
+          "CODIGO": "YIL7832MA",
+          "STAND": "DEPORTE",
+          "ID": 9
+        },
+        {
+          "TEXTO": "¿Bajo que nombre se creó incialmente el Voleibol?",
+          "CODIGO": "PCC3578RA",
+          "STAND": "NOMBRES",
+          "ID": 10
+        },
+        {
+          "TEXTO": "¿Quién fue el primer campeón mundial de Tenis de mesa, celebrado en Londres en 1926?",
+          "CODIGO": "LMR5104OS",
+          "STAND": "CAMPEONES",
+          "ID": 11
+        }
+      ]
+    }
