@@ -194,3 +194,9 @@
 .container a {
     color: white;
 }
+.bottom {
+    font-size: 8px;
+    position: absolute;
+    bottom: 0;
+    color: white;
+}

@@ -1,7 +1,6 @@
 import React from 'react';
-import styles from './concurso.module.css';
 import preguntas from "./preguntas.json"; // WHERE YOUR POSTS ARE
-import Pregunta from "../../components/Pregunta";
+import Pregunta from "../components/Pregunta";
 import { withRouter } from 'next/router'
 
 class concurso extends React.Component {
@@ -23,7 +22,7 @@ class concurso extends React.Component {
     }
 
     finish() { 
-        this.props.router.push('/fiesta/felicitaciones')
+        this.props.router.push('/felicitaciones')
     }
 
     render() {
