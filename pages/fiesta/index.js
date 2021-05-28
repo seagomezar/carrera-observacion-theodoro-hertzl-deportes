@@ -25,9 +25,10 @@ export default class Fiesta extends React.Component {
                 {[...Array(15)].map((x, i) =>
                     <div className={styles.confetti} key={i} ></div>
                 )}
-                <h1 className={styles.faltan}>Faltan: <Countdown date="2021-01-23T16:00:00" renderer={this.renderer}/></h1>
+                <h1 className={styles.faltan}>Bienvenido a la carrera de observación en el Theodoro Hertzl</h1>
                 <h2 className={styles.secondary}>La aplicación ya está lista: <Link href="/fiesta/concurso"><button>Haz click Aquí para empezar</button></Link></h2>
                 <h2 className={styles.ciao}>Nos Vemos 😉</h2>
+                <h3 className={styles.ciao}>Si quieres hacer un concurso como estos para tu fiesta, Visita: www.sebastian-gomez.com</h3>
             </div>)
     }
 }
